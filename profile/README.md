@@ -2,7 +2,7 @@
 
 Als je gemachtigd  bent kan je hier onze repositories vinden.
 
-## Variabelen
+<!-- ## Variabelen
 
 Dit zijn de afgekorte, Engelse termen die gebruikt worden ter aanduiding van de variabelen.
 
@@ -14,3 +14,4 @@ Dit zijn de afgekorte, Engelse termen die gebruikt worden ter aanduiding van de 
 | `energy`    | Totale Energie       | in gigajoules, is cumulatief, de totale hoeveelheid energie die is afgegeven.
 | `delta_t`   | Delta T              | verschil tussen de Aanvoer- en Retourtemperatuur.
 
+ -->
