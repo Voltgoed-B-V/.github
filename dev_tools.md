@@ -7,7 +7,7 @@ Ik (Casper) gebruik en heb een voorkeur voor Visual Studio Code. Het is light-we
 ### VSCODE-extensies
 
 * mypy, checkt Python typing
-  * Vereist: installeer mypy package met `pip install mypy`
+  * Vereist: installeer mypy package met `pip install mypy`. Dan in je code-folder run je `mypy i--install-types .` om alle type-checking libraries te installeren.
 * Rainbow CSV
 * markdownlint
 * Markdown Preview Enhanced, kan markdown files previews omzetten naar o.a. `.html` en `.pdf`.
