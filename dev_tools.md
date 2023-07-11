@@ -25,7 +25,7 @@ Om in Windows environment variables makkelijk en veilig toe te voegen kan je dit
 
 We werken met Git repositories op GitHub. Deze werken met 1 branch _main_, waarbij gebruik wordt gemaakt van  [Semantic Release](https://github.com/semantic-release/semantic-release) om verschillende versies bij te houden.
 
-Om iets nieuws te implementeren open je een nieuwe branch. als deze klaar is om in main te stoppen voer je eerst `git pull origin develop` om eventuele merge problemen met de _main_ branch op te lossen.  Hierna is het goed om je commits zoveel mogelijk squashen, dit is het makkelijkst via `git rebase -i HEAD~X`. waar X het aantal commits in je branch is. Vergeet niet hierna `git push -f` te doen om de rebase te pushen.  Hierna kan je een pull request doen en zouden er geen problemen zijn nadat deze goedgekeurd is.
+Om iets nieuws te implementeren open je een nieuwe branch. als deze klaar is om in main te stoppen voer je eerst `git pull origin main` om eventuele merge problemen met de _main_ branch op te lossen.  Hierna is het goed om je commits zoveel mogelijk squashen, dit is het makkelijkst via `git rebase -i HEAD~X`. waar X het aantal commits in je branch is. Vergeet niet hierna `git push -f` te doen om de rebase te pushen.  Hierna kan je een pull request doen en zouden er geen problemen zijn nadat deze goedgekeurd is.
 
 ### _Commit Messages_
 
